@@ -6,17 +6,18 @@ This script allows you to display and copy emoticons to your clipboard using sim
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/tm-LBenson/emote-script
-   cd emote-script
+```sh
+cd ~
+git clone https://github.com/tm-LBenson/emote-script
+cd emote-script
 
-   ```
+```
 
 2. Make the script executable:
 
-   ```sh
-   chmod +x emote.sh
-   ```
+```sh
+chmod +x emote.sh
+```
 
 3. Add an alias to your shell configuration file (e.g., `~/.zshrc` or `~/.bashrc`):
 
